@@ -24,9 +24,9 @@ void swap_ints(int *a, int *b)
  * Description: Prints the array after each swap.
  */
 
-/*
-Time Complexity: O(n^2)
-*/
+/**
+ * Time Complexity: O(n^2)
+ */
 void selection_sort(int *array, size_t size)
 {
 	int *min;

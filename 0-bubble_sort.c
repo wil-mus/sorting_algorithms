@@ -23,9 +23,9 @@ void swap_ints(int *a, int *b)
  * Description: Prints the array after each swap.
  */
 
-/*
-Time Complexity: O(n^2)
-*/
+/**
+ * Time Complexity: O(n^2)
+ */
 void bubble_sort(int *array, size_t size)
 {
 	size_t i, len = size;
